@@ -1,0 +1,19 @@
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Definitions.PVZ_USFX_LAB01.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB01\PVZ_USFX_LAB01GameMode.generated.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01Pawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB01\PVZ_USFX_LAB01Pawn.generated.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Source\PVZ_USFX_LAB01\Zombie.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB01\Zombie.generated.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Source\PVZ_USFX_LAB01\Plant.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB01\Plant.generated.h

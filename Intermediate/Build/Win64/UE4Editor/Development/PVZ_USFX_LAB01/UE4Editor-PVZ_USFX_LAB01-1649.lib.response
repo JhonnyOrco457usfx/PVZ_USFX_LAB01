@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PVZ_USFX_LAB01-1649.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\PVZ_USFX_LAB01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Plant.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01GameMode.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01Pawn.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01Projectile.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Zombie.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Plant.gen.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01.init.gen.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01GameMode.gen.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01Pawn.gen.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\PVZ_USFX_LAB01Projectile.gen.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Zombie.gen.cpp.obj"
+"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Default.rc2.res"
+/OUT:"E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\UE4Editor-PVZ_USFX_LAB01-1649.lib"

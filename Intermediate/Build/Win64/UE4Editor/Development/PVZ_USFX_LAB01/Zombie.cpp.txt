@@ -1,0 +1,3 @@
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Definitions.PVZ_USFX_LAB01.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Source\PVZ_USFX_LAB01\Zombie.h
+E:\SIS457 Repositorios\Lab04\PVZ_USFX_LAB01-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB01\Zombie.generated.h

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\SIS457 Repositorios\\Lab04\\PVZ_USFX_LAB01-master\\Source\\PVZ_USFX_LAB01\\PVZ_USFX_LAB01.Build.cs",
+		"E:\\SIS457 Repositorios\\Lab04\\PVZ_USFX_LAB01-master\\Source\\PVZ_USFX_LAB01.Target.cs",
+		"E:\\SIS457 Repositorios\\Lab04\\PVZ_USFX_LAB01-master\\Source\\PVZ_USFX_LAB01Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
